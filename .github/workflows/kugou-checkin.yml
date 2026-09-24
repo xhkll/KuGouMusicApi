@@ -9,4 +9,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 调用Vercel接口签到
-        run: curl -v "https://ku-gou-music-api-omega-five.vercel.app/youth/vip?cookie=token=df3f0e333107bf417aalaefd9db2b0d9383a628cdf35d9e71700d24fd7634bfb;userid=2287343728"
+        run: curl -v "https://ku-gou-music-api-omega-five.vercel.app/youth/vip?cookie=token=df3f0e333107bf417aa1aefd9db2b0d9383a628cdf35d9e71700d24fd7634bfb;userid=2287343728"
